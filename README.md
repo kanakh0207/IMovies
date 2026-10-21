@@ -1,4 +1,4 @@
-# TixBox — Movie ticket booking (MERN, JavaScript only)
+# IMovies — Movie ticket booking (MERN, JavaScript only)
 
 * **server/** — Node.js + Express + MongoDB (Mongoose), JWT auth in an httpOnly cookie
 * **client/** — React 19 + Vite + React Router (plain JS/JSX, no TypeScript)
